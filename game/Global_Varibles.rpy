@@ -1,0 +1,14 @@
+# Transition Variables #
+define medium_fade = Fade(1.0 , 1.5 , 1.0)
+define medium_dissolve = Dissolve(1.5)
+define long_fade = Fade(1.0 , 2.5 , 1.0)
+define long_dissolve = Dissolve(2.5)
+define fade_To_Instant = Fade(1.0 , 1.5 , 0.0)
+
+# Night Of Flowers #
+define Lee = Character("Lee" , color = "#0c00bb")
+define Marissa = Character("Marissa", color="#d69200")
+
+# A Favor promised #
+define Daniel = Character("Daniel" , color = "#0c00bb")
+define Katie = Character("Katie", color="#d69200")
