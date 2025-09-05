@@ -78,15 +78,16 @@ label A_Favor_Promised :
     scene mint AFP 11
     with fade
     Daniel "{b}{i}* Sigh *{plain} ... Okay , 
-    {w}I'll just mention this to him when he gets home"
-    Daniel "I'm sure he won't think anything otherwise"
-    Daniel "Kind of a coincident that you'd go to the mall tonight"
+    {w}I'll just mention this to the old man when he gets home"
+    Daniel "I'm sure he won't suspect anything otherwise"
+    Daniel "Bit of a coincident that you decided to go to 
+    the mall tonight though"
     Daniel "The same night as that huge party up in Vinewood Hills"
-    Daniel "I'm sure he would think to check or something"
+    Daniel "I'm sure he wouldn't find that suspicious or anything"
 
     scene mint AFP 12
     with medium_fade
-    Katie "Wait ... {w=1}Daniel !"
+    Katie "Daniel ... {w=1}wait !"
     Daniel "What , {w}I'm gonna go play video games in my room Katie"
     Daniel "What do you want ?"
 
@@ -100,7 +101,7 @@ label A_Favor_Promised :
 
     scene mint AFP 14
     with fade
-    Katie "Please Daniel , {w}cover for me ... {size=24}{cps=5}{w}please"
+    Katie "Please Daniel , {w}cover for me tonight ... {size=24}{cps=5}{w}please"
     Daniel "I don't know , {w}you fooled me once"
     Daniel "Fool me twice and its shame on me"
 
@@ -108,7 +109,7 @@ label A_Favor_Promised :
     with fade
     Katie "I know , {w}I know"
     Katie "But I swear , {w}I won't lie to you anymore Daniel"
-    Katie "Please ... {cps=5}{w=1}PLEEEAASSE"
+    Katie "Please ... {cps=5}{w=1}PLEEEAASSE{/cps} {w=0.7}Daniel"
 
     scene mint AFP 16
     with fade
@@ -130,7 +131,7 @@ label A_Favor_Promised :
 
     scene mint AFP 18
     with long_fade
-    Daniel "Katie what are you doing ?"
+    Daniel "Katie mind telling me what you're doing ?"
 
     scene mint AFP 19
     with fade
@@ -203,8 +204,8 @@ label A_Favor_Promised :
 
     scene mint AFP 28
     with medium_fade
-    Daniel "Okay"
-    Daniel "Now , {w}just grab her legs I guess"
+    Daniel "{i}Okay"
+    Daniel "{i}Now , {w}just grab her legs I guess"
 
     scene mint AFP 29
     with medium_fade
@@ -214,20 +215,22 @@ label A_Favor_Promised :
     scene mint AFP 30
     with medium_fade
     Daniel "{i}Jeez , {w}her leggings are soo soft"
-    Daniel "{i}This is so wrong , {w}but damn is it exciting"
-    Daniel "{i}If Katie wasn't ... {w}Erg"
+    Daniel "{i}This is so wrong , {w}but damn I can't help it"
+    Daniel "{i}I'm starting to get a chub"
+    Daniel "{i}If Katie wasn't ... {w}fuck"
 
     scene mint AFP 31
     with fade
-    Daniel "Erg fuck , {w}what am I thinking right now"
-    Daniel "Fuck this is wrong , {w}but I can't help it"
-    Daniel "And she's just happily searching away , 
+    Daniel "{i}Erg fuck , {w}what am I thinking right now"
+    Daniel "{i}Fuck this is wrong , {w}but I can't help it"
+    Daniel "{i}And she's just happily searching away , 
     {w}paying absolutly no mind to me"
-    Daniel "Probably because of how much she trusts me"
+    Daniel "{i}Probably because of how much she trusts me"
 
     scene mint AFP 32
     with medium_fade
-    Daniel "{i}But fuck ... {w}this is too much temptation"
+    Daniel "{i}Maybe ... {w}maybe I can just ..."
+    Daniel "{i}No Daniel , {w}don't let you mind go there"
     window hide
     pause(2.0)
     Daniel "{i}I ... {w} I just have to"
@@ -249,13 +252,13 @@ label A_Favor_Promised :
 
     scene mint AFP 36
     with fade
-    Daniel "Oh fuck ... {w}sorry Katie"
+    Daniel "{i}sorry Katie"
 
     scene mint AFP 37
     with dissolve
     window hide
     pause(1.0)
-    Daniel "{cps=5}Hmm ..."
+    Daniel "{i}Just real quick"
 
     scene mint AFP 38
     with medium_fade
