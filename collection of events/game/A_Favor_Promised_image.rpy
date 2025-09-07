@@ -38,3 +38,21 @@ image mint AFP 36 = "images/A Favor Promised/AFP 36.webp"
 image mint AFP 37 = "images/A Favor Promised/AFP 37.webp"
 image mint AFP 38 = "images/A Favor Promised/AFP 38.webp"
 image mint AFP 39 = "images/A Favor Promised/AFP 39.webp"
+image mint AFP 40 start = "images/A Favor Promised/AFP 40_0.webp"
+image mint AFT 40 :
+    block :
+        "images/A Favor Promised/AFP 40_0.webp" with dissolve
+        2.0
+        "images/A Favor Promised/AFP 40_1.webp" with dissolve
+        1.5
+        repeat(2.0)
+    block :
+        "images/A Favor Promised/AFP 40_2.webp" with dissolve
+        0.5
+        "images/A Favor Promised/AFP 40_3.webp" with dissolve
+        0.5
+        pause(2.0)
+    block :
+        "images/A Favor Promised/AFP 40_2.webp" with dissolve
+        1.0
+    repeat

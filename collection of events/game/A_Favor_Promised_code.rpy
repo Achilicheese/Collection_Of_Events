@@ -22,13 +22,13 @@ label A_Favor_Promised :
     scene mint AFP 03
     with dissolve
     Daniel "{i}Fuck it , {w}I give up"
-    Daniel "{i}Lets go fuck with Katie"
+    Daniel "{i}Let's go fuck with Katie"
 
     scene mint AFP 04
     with medium_fade
     Daniel "{i}Hmm ... {w}awfully quiet"
-    Daniel "{i}I wonder if she's sleeping ?"
-    Daniel "{i}Well , {i}if she is ... 
+    Daniel "{i}I wonder if she's sleeping?"
+    Daniel "{i}Well, {i}if she is ... 
     {w}then this is about to be funny as hell"
 
     scene mint AFP 05
@@ -45,45 +45,45 @@ label A_Favor_Promised :
     scene mint AFP 07
     with fade
     Katie "Daniel , {w}what the hell"
-    Katie "Why did you do that ?"
-    Katie "I almost pee'd myself"
-    Daniel "Huh ... {w}I don't know what you mean ?"
-    Katie "Arg , {w}I swear ..."
+    Katie "Why'd you do that ?"
+    Katie "I almost peed myself"
+    Daniel "Huh ... {w}do what ?"
+    Katie "Arg ... {w}I swear"
 
     scene mint AFP 08
     with medium_fade
+    Daniel "So ... {w}whatcha doin'"
+    Katie "Putting on an earring ..."
     Katie "What do you want ?"
-    Katie "Why are you in my room ?"
-    Daniel "I was too quite , {w}so I thought"
-    Daniel "I'd see what you're up to"
-    Katie "Erg ... {w}go away"
-    Daniel "Why , {w}are you doing something ?"
+    Daniel "I was bored , {w}so I thought ..."
+    Daniel "Let's go see what Katie's up to"
+    Katie "Ugh ... {w}go away"
+    Daniel "Why ?"
+    Daniel "Are you doing something ?"
     Daniel "Maybe going somewhere ?"
 
     scene mint AFP 09
     with dissolve
     Katie "Just going to the mall to hang out with some friends"
-    Daniel "The ... {w}mall"
-    Daniel "Really ?"
+    Daniel "The ... {w=1}mall ... {w=1}Really ?"
     Katie "Yup"
     Daniel "At night time ?"
     Katie "Yah"
 
     scene mint AFP 10
     with fade
-    Daniel "{i}She's such a shit liar"
+    Daniel "{i}She's such a shitty liar"
     Daniel "{i}No ... {w}scratch that"
-    Daniel "{i}That's disrespectful to the shit liars"
+    Daniel "{i}That's disrespectful to the shitty liars"
 
     scene mint AFP 11
     with fade
     Daniel "{b}{i}* Sigh *{plain} ... Okay , 
-    {w}I'll just mention this to the old man when he gets home"
-    Daniel "I'm sure he won't suspect anything otherwise"
-    Daniel "Bit of a coincident that you decided to go to 
+    {w}I'll just mention this to the old man when he gets home from work"
+    Daniel "I'm sure he won't find that suspicious or anything ..."
+    Daniel "Strange coincidence that you decided to go to 
     the mall tonight though"
-    Daniel "The same night as that huge party up in Vinewood Hills"
-    Daniel "I'm sure he wouldn't find that suspicious or anything"
+    Daniel "The same night that huge party up in Vinewood Hills happens to be on"
 
     scene mint AFP 12
     with medium_fade
@@ -103,12 +103,12 @@ label A_Favor_Promised :
     with fade
     Katie "Please Daniel , {w}cover for me tonight ... {size=24}{cps=5}{w}please"
     Daniel "I don't know , {w}you fooled me once"
-    Daniel "Fool me twice and its shame on me"
+    Daniel "Fool me twice and it's shame on me"
 
     scene mint AFP 15
     with fade
-    Katie "I know , {w}I know"
-    Katie "But I swear , {w}I won't lie to you anymore Daniel"
+    Katie "No"
+    Katie "I swear , {w}I won't lie to you anymore Daniel"
     Katie "Please ... {cps=5}{w=1}PLEEEAASSE{/cps} {w=0.7}Daniel"
 
     scene mint AFP 16
@@ -116,15 +116,15 @@ label A_Favor_Promised :
     Daniel "ARG ... {w}fine"
     Daniel "You're lucky you're my favorite"
     Daniel "But you owe me a favor, {w}BIG TIME"
-    Katie "I will ... {w}thanks Daniel"
-    Daniel "Yah , {w=1}yah"
+    Katie "I will , {w}thanks Daniel"
+    Daniel "Yah ... {w=1}yah"
     Daniel "I'll add it to the pile"
 
     scene mint AFP 17
     with fade
     Daniel "Well , {w}since that's done ..."
     Katie "Wait Daniel"
-    Daniel "What ?"
+    Daniel "What now ?"
     Katie "Can you help me with one more thing ?"
     Daniel "I'm not helping you paint your nails"
     Katie "No not that ... {w}just ... {w}come on"
@@ -137,19 +137,20 @@ label A_Favor_Promised :
     with fade
     Katie "I need to get something"
     Daniel "In the storage closet ?"
-    Katie "Yah"
+    Katie "Yup"
     Daniel "So then , {w}what do yah need me for ?"
-    Katie "I need you to stand and make sure I don't fall"
+    Katie "I need you to stand behind me and make sure I don't fall"
     Daniel "What ?!"
     Katie "It's on the top shelf"
     Daniel "Oh jeez"
 
     scene mint AFP 20
     with medium_fade
-    Daniel "You hid something ?"
+    Daniel "Hmmm"
+    Daniel "Must be important for you to go through all this trouble"
     Katie "{size=24}Maybe"
-    Daniel "What ?"
-    Katie "I'll show you , {w}just wait"
+    Daniel "What is it then ?"
+    Katie "{size=24}I'll show you , {w}just wait"
     Daniel "{b}{i}* Sigh *"
 
     scene mint AFP 21
@@ -157,7 +158,7 @@ label A_Favor_Promised :
     Daniel "{i}This is so fucking stupid"
     Daniel "{i}Why do I get the feeling I'm going to regret helping"
     Daniel "{i}Maybe this is a bad idea"
-    Daniel "{i}But , {w}I've already promised and I have a reputation to keep"
+    Daniel "{i}But , {w}I've already promised and I don't break promises"
 
     scene mint AFP 22
     with fade
@@ -191,7 +192,7 @@ label A_Favor_Promised :
     Katie "Really ?"
     Katie "It's cause , {w}I don't feel you holding on"
     Daniel "Oh , {w}I'm supposed to ?"
-    Katie "Um ... {w}yah , {w}thats kinda what support means"
+    Katie "Um ... {w}yeah, {w}that's kind of what support means"
     Daniel "Oh , {w}I thought you meant more like emotional support"
     Katie "What , {w}no ... {w}I want you to hold my legs"
     Daniel "Oh , {w}okay"
@@ -223,8 +224,8 @@ label A_Favor_Promised :
     with fade
     Daniel "{i}Erg fuck , {w}what am I thinking right now"
     Daniel "{i}Fuck this is wrong , {w}but I can't help it"
-    Daniel "{i}And she's just happily searching away , 
-    {w}paying absolutly no mind to me"
+    Daniel "{i}And she's just happily searching away, 
+    {w}paying absolutely no mind to me"
     Daniel "{i}Probably because of how much she trusts me"
 
     scene mint AFP 32
@@ -267,3 +268,10 @@ label A_Favor_Promised :
     scene mint AFP 39
     with dissolve
     Daniel "{i}{b}{size=28}{cps=5}* Sniffff *"
+    Daniel "{i}{w=1}{cps=5}fuckk"
+
+    scene mint AFP 40 start
+    with long_fade
+    pause(1.0)
+    scene mint AFT 40
+    pause
