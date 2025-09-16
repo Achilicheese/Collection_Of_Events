@@ -61,3 +61,41 @@ image mint NOF 43 :
     "images/Night Of Flowers/43_1.webp" with dissolve
     0.6
     repeat
+image mint NOF start 44 = "images/Night Of Flowers/44_0.webp"
+image mint NOF 44 :
+    "images/Night Of Flowers/44_0.webp" with dissolve
+    0.5
+    "images/Night Of Flowers/44_1.webp" with dissolve
+    0.5
+    "images/Night Of Flowers/44_2.webp" with dissolve
+    0.5
+    "images/Night Of Flowers/44_3.webp" with dissolve
+    0.5
+    "images/Night Of Flowers/44_4.webp" with dissolve
+    0.5
+    "images/Night Of Flowers/44_3.webp" with dissolve
+    0.5
+    "images/Night Of Flowers/44_2.webp" with dissolve
+    0.5
+    "images/Night Of Flowers/44_1.webp" with dissolve
+    0.5
+    repeat
+image mint NOF start 45 = "images/Night Of Flowers/45_0.webp"
+image mint NOF 45 :
+    "images/Night Of Flowers/45_0.webp" with dissolve
+    0.5
+    "images/Night Of Flowers/45_1.webp" with dissolve
+    0.5
+    "images/Night Of Flowers/45_2.webp" with dissolve
+    0.5
+    "images/Night Of Flowers/45_3.webp" with dissolve
+    0.5
+    "images/Night Of Flowers/45_4.webp" with dissolve
+    0.5
+    "images/Night Of Flowers/45_3.webp" with dissolve
+    0.5
+    "images/Night Of Flowers/45_2.webp" with dissolve
+    0.5
+    "images/Night Of Flowers/45_1.webp" with dissolve
+    0.5
+    repeat

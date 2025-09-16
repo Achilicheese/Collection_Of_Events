@@ -225,4 +225,22 @@ label Night_Of_Flowers:
     with fade
     scene mint NOF 43
     Lee "Oh ... {w}fuck"
-    Lee "{i}This is ... {w}kinda nice"
+    Lee "{i}This is ... {w}kinda {w=1}nice"
+
+    scene mint NOF start 44
+    with medium_fade
+    scene mint NOF 44
+    window hide
+    pause
+    Lee "{cps=5}{size=24}Fuck ..."
+    Lee "{i}Her ass ... {w}It's"
+    Lee "{i}It's so ... {w=2.0}soft"
+
+    scene mint NOF 45 start
+    with medium_fade
+    scene mint NOF 45
+    window hide
+    pause(1.0)
+    Lee "{i}{b}* heavy breathing *"
+    Lee "{i}Jeez , {w}If she keeps this up"
+    Lee "{i}I might ..."
