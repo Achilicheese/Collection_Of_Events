@@ -155,8 +155,10 @@ label Night_Of_Flowers:
 
     scene mint NOF 24
     with long_fade
-    M "Because then it would 100 percent fix the flow of this room"
-    M "Then it would be easier to move between the chairs"
+    M "... Because then it would 100 percent fix the flow of this room"
+    M "It would also be easier to move between the chairs"
+    window hide
+    pause(2.0)
     M "Right ?"
 
     scene mint NOF 25
@@ -179,5 +181,90 @@ label Night_Of_Flowers:
     T "We can save this ... {w}you know"
     T "For later ?"
     T "This is supposed to be a fun night for you"
+
+    scene mint NOF 29
+    with fade
+    M "But , {w}this is ..."
+    M "Please Mr . Willard ?"
+    M "{cps=5}P{size=26}l{size=24}e{size=20}a{size=18}s{size=14}eeee"
+
+    scene mint NOF 30
+    with medium_fade
+    T "Alright ... {w=1.5}{size=24}alright"
+    T "Are you sure this is what you want sweety ?"
+    M "Yup"
+    T "Okay"
+
+    scene mint NOF 31
+    with fade
+    M "Yaaayyy ..."
+    M "Thanks Mr . Willard"
+    T "Of course baby"
+
+    scene mint NOF 32
+    with vpunch
+    M "{size=24}Hmm ?" 
+    T "Uh I mean ... {w}Imma just go in the kitchen and get us something to drink"
+    M "Oh , {w}okay"
+
+    scene mint NOF 33
+    with long_fade
+    "{b}{i}* creeek *"
+
+    scene mint NOF 34
+    with medium_fade
+    window hide
+    pause
+    doc "{i}I sorry , {w}I trully am ..."
+    doc "{i}I really wish there were more options"
+
+    scene mint NOF 35
+    with medium_fade
+    T "{i}So ... {w}thats it ... {w=1.5}huh ?"
+
+    scene mint NOF 36
+    with long_fade
+    T "{i}{b}* Sigh *"
+
+    scene mint NOF 37_0
+    window hide
+    pause
+    T "{size=22} ... what are you doing Tommin ?"
+
+    scene mint NOF 37_1
+    with dissolve
+    pause
+
+    scene mint NOF 38
+    with medium_fade
+    T "Hey I'm back , {w}what you doin kiddo ?"
+
+    scene mint NOF 39
+    with fade
+    M "Oh I was just trying to disconnect the TV cables"
+    T "Why ?"
+    M "So we can move it silly"
+    T "Uhh , {w}why don't we start with the easier things like the furniture ?"
+
+    scene mint NOF 40
+    scene mint NOF 41
+    scene mint NOF 42
+    scene mint NOF 43
+    scene mint NOF 44
+    scene mint NOF 45
+    scene mint NOF 46
+    scene mint NOF 47
+    scene mint NOF 48
+    scene mint NOF 49
+    scene mint NOF 50
+    scene mint NOF 51
+    scene mint NOF 51_2
+    scene mint NOF 52
+    scene mint NOF 53
+    scene mint NOF 54
+    scene mint NOF 55
+    scene mint NOF 56
+    scene mint NOF 57
+    scene mint NOF 58
 
     return
