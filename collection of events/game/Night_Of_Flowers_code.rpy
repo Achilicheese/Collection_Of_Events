@@ -247,24 +247,166 @@ label Night_Of_Flowers:
     T "Uhh , {w}why don't we start with the easier things like the furniture ?"
 
     scene mint NOF 40
+    with medium_fade
+    M "Oh yah , {w}you're right"
+    M "Duh Marissa ... hehe"
+    T "Hey but first , {w}take this ..."
+    T "I got you something to drink"
+    M "Oh , {w}thanks Mr . Willard"
+
     scene mint NOF 41
+    with fade
+    M "Huh ... {w=1.5}{size=24}juice ?"
+    T "Yup , {w}apple juice ... {w}your favorite"
+    M "{size=24}Ohh ... {w}I just thought"
+    T "Hmm ?"
+    T "Thought what ?"
+
     scene mint NOF 42
+    with dissolve
+    M "{size=22}Nothing ... {w=1.5}nothing"
+    T "That's right , {w=1.5}better be nothing"
+    T "The only 3 things that you should be drinking are {w=1.5}water , 
+    {w=1.5}juice , {w=1.5}or soda"
+
     scene mint NOF 43
+    with medium_fade
+    M "Huh ?"
+    T "What wrong ?"
+    M "This kinda taste ... {w=2.0}{cps=5}off"
+    T "Off ?"
+    M "{size=24}{cps=5}Yah ..."
+
     scene mint NOF 44
+    with fade
+    T "Hehe , {w}I guess switching to that new brand was a bad idea then"
+    M "New brand ?"
+    T "Yah , {w}it's a new european brand"
+
     scene mint NOF 45
+    with fade
+    M "Oh , {w}that makes sense"
+    M "I guess ..."
+    M "{cps=5}{size=22}hehe"
+
     scene mint NOF 46
+    with medium_fade
+    T "Okay , {w}so ... {w}what first ?"
+    M "I ... {w}I guess the couch"
+    T "Alright"
+
     scene mint NOF 47
+    with fade
+    T "{b}{i}*Ahem *"
+    T "So , {w}where are we moving it to"
+    M "Umm ... {w}maybe just push it closer to the wall ?"
+    T "Okay , {w}are we both pushing from this side or ..."
+    M "Umm ... {w}no , {w}you should go on the other side"
+    T "Alright ..."
+
     scene mint NOF 48
+    with long_fade
+    T "You push , {w=1.0}I'll pull"
+
     scene mint NOF 49
+    with long_fade
+    M "Okay , {w=1.5}this is good enough"
+
     scene mint NOF 50
+    with medium_fade
+    T "So , {w}what's next ?"
+    M "Okay so , {w}next is the table"
+    M "So we can move the rug"
+
     scene mint NOF 51
+    with fade
+    pause(2.5)
+
     scene mint NOF 51_2
+    with medium_fade
+    M "{size=24}Ergg ..."
+    T "Are you okay sweety ?"
+
     scene mint NOF 52
+    with fade
+    M "I ... {w=1.5}I don't know"
+    M "I'm a little dizzy"
+    T "Oh ... {w}Um , {w}it could be from moving the couch"
+    T "Here , {w}let's sit down for a bit"
+
     scene mint NOF 53
+    with long_fade
+    M "Uhh ..."
+    T "{size=24}You're okay baby"
+    M "{size=24}Wha ... {w}what's"
+    T "{size=24}Shhhh ..."
+    T "{size=24}You're okay"
+
     scene mint NOF 54
+    with fade
+    M "{b}{i}* lightly cries *"
+    T "{size=24}There ... {w=1.0}there"
+    T "{size=24}You're perfectly okay"
+    T "Daddy's gonna take care of you"
+    T "Just relax honey"
+
     scene mint NOF 55
+    with dissolve
+    T "Now , {w}let's make you a little more comfortable ... {w}okay ?"
+    M "Lmm wuh"
+
     scene mint NOF 56
+    with long_fade
+    T "There we are ... {w=1.5}see"
+    T "Much better now right ?"
+    T "I seem to think so"
+
     scene mint NOF 57
+    with fade
+    T "Mmmh"
+    T "What a stunning woman you've become"
+    T "Say , {w}how about I give you a little ..."
+    T " \"Inspection\" "
+    T "What do you say ?"
+
+    scene mint NOF 58 start
+    with medium_fade
     scene mint NOF 58
+    pause
+    T "What incredible breast you have"
+    T "Your daddy would be proud"
+    T "I know I am ..."
+
+    scene mint NOF 59
+    with medium_fade
+    T "Does that feel good ?"
+    T "Yah , {w}I bet it does"
+    T "They're starting to get hard"
+
+    scene mint NOF 60
+    with dissolve
+    M "{size=20}Ermm"
+    T "{size=24}Come here"
+    T "{size=24}Give me a kiss"
+
+    scene mint NOF 61
+    with fade
+    pause
+
+    scene mint NOF 62
+    with fade
+    T "Oh yah , {w}that's good"
+    T "Come here , {w}this next thing will feel really good"
+
+    scene mint NOF 63 start
+    with medium_fade
+    scene mint NOF 63
+    pause
+
+    scene mint NOF 64 start
+    with dissolve
+    scene mint NOF 64
+    pause(0.8)
+    "{b}{i}* pop *"
 
     return
