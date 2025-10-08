@@ -159,23 +159,21 @@ image mint NOF 63 start = "images/Night Of Flowers/NOF 63.webp"
 image mint NOF 63 :
     block :
         "images/Night Of Flowers/NOF 63.webp" with dissolve
-        1.0
+        0.9
         "images/Night Of Flowers/NOF 63_0.webp" with dissolve
-        0.6
+        0.5
         "images/Night Of Flowers/NOF 63_1.webp" with dissolve
-        1,0
+        0.7
         "images/Night Of Flowers/NOF 63_0.webp" with dissolve
-        0.6
+        0.5
         repeat(3.0)
     block :
         "images/Night Of Flowers/NOF 63_1.webp" with dissolve
         1.0
         "images/Night Of Flowers/NOF 63_2.webp" with dissolve
-        1.0
+        0.5
         "images/Night Of Flowers/NOF 63_3.webp" with dissolve
-        1.0
-        "images/Night Of Flowers/NOF 63_2.webp" with dissolve
-        1.0
+        0.8
         repeat(2.0)
     repeat
 image mint NOF 64 start = "images/Night Of Flowers/NOF 64_0.webp"
@@ -186,3 +184,20 @@ image mint NOF 64 :
     1.0
     "images/Night Of Flowers/NOF 64_2.webp" with dissolve
     1.0
+image mint NOF 65 = "images/Night Of Flowers/NOF 65.webp"
+image mint NOF 66 = "images/Night Of Flowers/NOF 66.webp"
+image mint NOF 67 = "images/Night Of Flowers/NOF 67.webp"
+image mint NOF 68 = "images/Night Of Flowers/NOF 68.webp"
+image mint NOF 69 = "images/Night Of Flowers/NOF 69.webp"
+image mint NOF 70 = "images/Night Of Flowers/NOF 70.webp"
+image mint NOF 71 = "images/Night Of Flowers/NOF 71.webp"
+image mint NOF 72 = "images/Night Of Flowers/NOF 72.webp"
+image mint NOF 73 = "images/Night Of Flowers/NOF 73.webp"
+image mint NOF 74 = "images/Night Of Flowers/NOF 74.webp"
+image mint NOF 75 = "images/Night Of Flowers/NOF 75.webp"
+image mint NOF 76 = "images/Night Of Flowers/NOF 76.webp"
+image mint NOF 77 = "images/Night Of Flowers/NOF 77.webp"
+image mint NOF 78 = "images/Night Of Flowers/NOF 78.webp"
+image mint NOF 79 = "images/Night Of Flowers/NOF 79.webp"
+image mint NOF 80 = "images/Night Of Flowers/NOF 80.webp"
+image mint NOF 81 = "images/Night Of Flowers/NOF 81.webp"

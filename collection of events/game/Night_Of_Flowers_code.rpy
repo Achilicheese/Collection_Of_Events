@@ -387,7 +387,7 @@ label Night_Of_Flowers:
     with dissolve
     M "{size=20}Ermm"
     T "{size=24}Come here"
-    T "{size=24}Give me a kiss"
+    T "{size=24}Give me a kiss baby"
 
     scene mint NOF 61
     with fade
@@ -395,8 +395,9 @@ label Night_Of_Flowers:
 
     scene mint NOF 62
     with fade
-    T "Oh yah , {w}that's good"
-    T "Come here , {w}this next thing will feel really good"
+    T "Your lips are so soft , {w}and smells like cotten candy"
+    T "I wonder of other part of you taste just as good"
+    T "Let's find out shall we"
 
     scene mint NOF 63 start
     with medium_fade
@@ -407,6 +408,76 @@ label Night_Of_Flowers:
     with dissolve
     scene mint NOF 64
     pause(0.8)
-    "{b}{i}* pop *"
+    "{b}{i}* pop *{nw=2.0}"
+    window hide
+
+    scene mint NOF 65
+    with medium_fade
+    T "God I love young tits"
+    T "I haven't done that in years"
+    T "Then again , {w}dusty old bats tits can only fall to the floor"
+    T "Not bounch back into shape"
+
+    scene mint NOF 66
+    with dissolve
+    T "You make an old man feel young again you know that"
+    T "Never in this life did I'd think I'd ever see young tits like these again"
+    T "{b}{i}* sigh *"
+    T "Now I really can't wait to see the rest of you"
+
+    scene mint NOF 67
+    with long_fade
+    T "There we go ... {w}that's it"
+    T "Just ... {w=1}like ... {w=1}this"
+    T "Good girl"
+    T "Just lay still like this ..."
+
+    scene mint NOF 68
+    with dissolve
+    T "Now , {w}since you're being such a good girl"
+    T "I'll let you in on a secret"
+    T "{size=24}I've always been a bit of an ... {w=1.2}{b}{i}ass {w=1.0}man{plain} ...
+    {w}you could say"
+    T "{size=24}And all the times I've spent with you , 
+    {w}any chance I get I'd sneak a peak ... {w}just a peak"
+    T "{size=24}Imagine the sweetest pie right in front of you , 
+    {w}you can look , {w}smell ... {w}but not touch"
+    T "{size=24}It's torture , 
+    {w}and I'll be damned if I don't get to taste that pie before I die"
+
+    scene mint NOF 69
+    with long_fade
+    pause
+
+    scene mint NOF 70
+    with medium_fade
+    pause
+
+    scene mint NOF 71
+    with medium_fade
+    T "{b}{i}* Heavy breathing *"
+
+    scene mint NOF 72
+    with medium_fade
+    pause
+
+    scene mint NOF 73
+    with hpunch
+    pause
+
+    scene mint NOF 74
+    with long_fade
+    T "{size=20}Alright , {w}let fucking do this ..."
+
+    scene mint NOF 75
+    with long_fade
+    pause
+    
+    scene mint NOF 76
+    scene mint NOF 77
+    scene mint NOF 78
+    scene mint NOF 79
+    scene mint NOF 80
+    scene mint NOF 81
 
     return
