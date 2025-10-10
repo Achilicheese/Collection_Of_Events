@@ -201,3 +201,32 @@ image mint NOF 78 = "images/Night Of Flowers/NOF 78.webp"
 image mint NOF 79 = "images/Night Of Flowers/NOF 79.webp"
 image mint NOF 80 = "images/Night Of Flowers/NOF 80.webp"
 image mint NOF 81 = "images/Night Of Flowers/NOF 81.webp"
+image mint NOF 82 start = "images/Night Of Flowers/NOF 82_0.webp"
+image mint NOF 82 :
+    "images/Night Of Flowers/NOF 82_0.webp" with dissolve
+    0.8
+    "images/Night Of Flowers/NOF 82_1.webp"  with dissolve
+    0.5
+    "images/Night Of Flowers/NOF 82_2.webp"  with dissolve
+    0.5
+    "images/Night Of Flowers/NOF 82_3.webp"  with dissolve
+    0.5
+    "images/Night Of Flowers/NOF 82_4.webp"  with dissolve
+    0.5
+image mint NOF 83 = "images/Night Of Flowers/NOF 83.webp"
+image mint NOF 84 = "images/Night Of Flowers/NOF 84.webp"
+image mint NOF 85 = "images/Night Of Flowers/NOF 85.webp"
+image mint NOF 86 = "images/Night Of Flowers/NOF 86.webp"
+image mint NOF 87 = "images/Night Of Flowers/NOF 87.webp"
+image mint NOF 88 start = "images/Night Of Flowers/NOF 88_0.webp"
+image mint NOF 88 :
+    "images/Night Of Flowers/NOF 88_0.webp"  with dissolve
+    1.0
+    "images/Night Of Flowers/NOF 88_1.webp"  with dissolve
+    0.5
+    "images/Night Of Flowers/NOF 88_2.webp"  with dissolve
+    0.5
+    "images/Night Of Flowers/NOF 88_3.webp"  with dissolve
+    1.0
+    "images/Night Of Flowers/NOF 88_4.webp"  with dissolve
+    1.0

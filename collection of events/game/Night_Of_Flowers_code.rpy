@@ -479,5 +479,14 @@ label Night_Of_Flowers:
     scene mint NOF 79
     scene mint NOF 80
     scene mint NOF 81
+    scene mint NOF 82 start
+    scene mint NOF 82
+    scene mint NOF 83
+    scene mint NOF 84
+    scene mint NOF 85
+    scene mint NOF 86
+    scene mint NOF 87
+    scene mint NOF 88 start
+    scene mint NOF 88
 
     return
